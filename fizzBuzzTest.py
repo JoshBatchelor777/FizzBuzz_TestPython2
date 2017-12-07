@@ -17,7 +17,7 @@ for i in range(1,21,1):
         print (i)
     elif i%3 == 0 and i !=15:
         print("Fizz ({})".format(i))
-    elif i%5 == 0and i != 15:
+    elif i%5 == 0 and i != 15:
         print("Buzz ({})".format(i))
 
 
